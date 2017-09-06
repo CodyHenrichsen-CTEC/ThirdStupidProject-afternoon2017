@@ -1,5 +1,10 @@
 package stupid.controller;
 
+/**
+ * 
+ * @author Cody Henrichsen
+ *
+ */
 public class StupidController
 {
 
